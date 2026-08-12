@@ -21,7 +21,7 @@ const business = {
   menu: [
     { name: "Kopi Susu Rumah Signature", price: "Rp 22.000", desc: "Espresso house-blend dipadu susu segar creamy dan gula aren murni khas Tanjung Morawa", isPopular: true, image: "/images/hero.png" },
     { name: "Manual Brew V60 Single Origin", price: "Rp 26.000", desc: "Seduh manual biji kopi pilihan (Gayo Wine, Mandheling, Lintong) dengan notas rasa unik", isPopular: true, image: "/images/hero.png" },
-    { name: "Dirty Matcha Espresso", price: "Rp 28.000", desc: "Layered drink racikan matcha Uji Jepang premium disiram shot espresso pekat", isPopular: false, image: "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?auto=format&fit=crop&w=600&q=80" },
+    { name: "Dirty Matcha Espresso", price: "Rp 28.000", desc: "Layered drink racikan matcha Uji Jepang premium disiram shot espresso pekat", isPopular: false, image: "/images/hero.png" },
     { name: "Croissant Butter & Chocolate Paste", price: "Rp 24.000", desc: "Roti croissant renyah bertumpuk mentega kaya rasa disajikan hangat dari oven", isPopular: false, image: "/images/hero.png" }
   ],
   features: ["Specialty Beans House Roastery", "Wi-Fi 100 Mbps Dedicated", "Indoor AC Quiet Workspace", "Barista Experience Class"]
